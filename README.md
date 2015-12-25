@@ -1,2 +1,2 @@
 # git-training
-Creating a branch simple & quick
+Creating a branch simple and quick
