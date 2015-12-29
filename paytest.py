@@ -3,7 +3,8 @@ import httplib
 import json
 import urllib
  
-conn = httplib.HTTPConnection("10.117.193.109",8080)
+#conn = httplib.HTTPConnection("10.117.193.109",8080)
+conn = httplib.HTTPConnection("10.117.193.109",8083)
 headers = {"Content-type":"application/json"}
 param = ({
 	"pid": "415180",
